@@ -42,7 +42,7 @@ int main()
     printf("\n------------------------------------------------------------\n");
     printf("                    DATOS IMPARES\n");
     printf("------------------------------------------------------------\n");
-    printf("\ncant de impares: %d \n", (data-count));
+    printf("cant de impares: %d \n", (data-count));
     int impar[count];
     for (int i = 0; i < data; i++){
         if (array[i] % 2 != 0){
@@ -87,17 +87,18 @@ void slect(int arr[],int tam){
     
 }
 
-void insert(int arr[], int tam){
+void insert(int arr2[], int tam2){
 
     int pos, aux, i;
-    for ( i = 0; i < tam; i++){
+    for ( i = 0; i < tam2; i++){
         pos = i;
-        aux = arr[i];
-        while ((pos>0) && (aux < arr[pos-1])){
-            arr[pos] = arr[pos-1];
+        aux = arr2[i];
+        while ((pos>0) && (aux < arr2[pos-1])){
+            arr2[pos] = arr2[pos-1];
             pos--;
         }
-        arr[pos] = aux;
+        arr2[pos] = aux;
     }
     
 }
+
