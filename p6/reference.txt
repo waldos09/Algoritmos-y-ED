@@ -1,0 +1,5 @@
+https://www.uco.es/grupos/eatco/informatica/metodologia/cadenasyarrays.pdf
+https://clibre.io/blog/por-secciones/codigo/item/424-calcular-tamano-en-c-sizeof-strlen-uso-y-errores-comunes#:~:text=Para%20saber%20el%20tamaño%20de,byte%20en%20términos%20de%20char%20).
+https://cboard.cprogramming.com/c-programming/155344-[-wimplicit-function-declaration]-help-me-pls.html
+https://www.youtube.com/watch?v=224sEKDX69Q
+https://www.delftstack.com/es/howto/c/read-file-c/
